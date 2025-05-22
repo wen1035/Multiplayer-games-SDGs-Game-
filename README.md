@@ -4,7 +4,7 @@
 * Demo連結:<https://www.youtube.com/watch?v=K-BmcaBm304>
 
 ### 需求規劃:
->#### 永續遊戲須符合聯合國宣布的「2030永續發展目標」（Sustainable Development Goals, SDGs）為主題 
+>#### 永續遊戲須符合聯合國宣布的「2030永續發展目標」（Sustainable Development Goals, SDGs）為主題:
 >*  此遊戲選為SDGs 目標7可負擔的潔淨能源：確保所有的人都可取得負擔得起、可靠、永續及現代的能源
 
 >#### 遊戲說明:
