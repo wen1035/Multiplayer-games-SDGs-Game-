@@ -1,7 +1,7 @@
 # Multiplayer-games-SDGs-Game
 多人連線永續主題的狼人殺遊戲(使用C#)
 
-*Demo連結:<https://www.youtube.com/watch?v=K-BmcaBm304>
+* Demo連結:<https://www.youtube.com/watch?v=K-BmcaBm304>
 
 ### 需求規劃:
 >#### 永續遊戲須符合聯合國宣布的「2030永續發展目標」（Sustainable Development Goals, SDGs）為主題 
